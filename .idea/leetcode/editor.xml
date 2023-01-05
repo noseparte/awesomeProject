@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="D:/Goland/leetcode/leetcode/editor/cn/[1]两数之和.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/cn/[1]两数之和.go" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/Goland/leetcode/leetcode/editor/cn/[1]两数之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/cn/[1]两数之和.java" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/Goland/leetcode/leetcode/editor/cn/[9]回文数.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/cn/[9]回文数.go" />
+              <option name="questionId" value="9" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/Goland/leetcode/leetcode/editor/cn/[9]回文数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/cn/[9]回文数.java" />
+              <option name="questionId" value="9" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/Goland/leetcode/leetcode/editor/en/[1]Two Sum.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/en/[1]Two Sum.go" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/Goland/leetcode/leetcode/editor/en/[1]两数之和.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/en/[1]两数之和.go" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/Goland/leetcode/leetcode/editor/en/[2]Add Two Numbers.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/en/[2]Add Two Numbers.go" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="D:/Goland/leetcode/leetcode/editor/en/[88]Merge Sorted Array.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="D:/Goland/leetcode/leetcode/editor/en/[88]Merge Sorted Array.go" />
+              <option name="questionId" value="88" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
