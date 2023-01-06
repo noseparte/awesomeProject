@@ -88,8 +88,8 @@ func main() {
 	//fmt.Println("--------------------------")
 	//Req(lists)
 
-	//db.TestConnection()
-	db.TestMysql()
+	db.TestConnection()
+	//db.TestMysql()
 }
 
 func Req(tmp *easy.ListNode) {        //tmp指针是指向下一个结构体的地址，加*就是下一个结构体
